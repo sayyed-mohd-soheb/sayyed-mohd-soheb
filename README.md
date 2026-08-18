@@ -1,11 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm **Shoaib**
+# 👋 Hi, I'm **SAYYED SOHEB**
 
-### 🐍 Python & Django Developer · 🧪 QA Tester · 🎭 Test Automation
+**🐍 Python & Django Developer · 🧪 QA Tester · 🎭 Automation · 🤖 Learning AI/GenAI**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=00A67E&center=true&vCenter=true&width=700&lines=Building+with+Python+%26+Django;Testing+Real-World+Applications;Learning+Playwright+%26+Automation;Exploring+Next.js+%26+JavaScript;Turning+Problems+Into+Projects" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00A67E&center=true&vCenter=true&width=750&lines=Building+with+Python+%26+Django;Testing+Real-World+Applications;Working+with+Playwright+%26+Automation;Building+with+Next.js+%26+JavaScript;Exploring+AI+%26+GenAI" alt="Typing SVG" />
 <br>
 
 <a href="https://github.com/sayyed-mohd-soheb">
@@ -26,10 +25,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=sayyed-mohd-soheb&style=for-the-badge&color=00A67E&label=PROFILE+VIEWS"/><img src="https://img.shields.io/github/followers/sayyed-mohd-soheb?style=for-the-badge&color=00A67E&label=FOLLOWERS"/>
 
-<br><br>
-
-**📍 Mumbai, India**   •   **💻 Software Engineering Enthusiast**   •   **🚀 Always Learning**
-
+📍 **Mumbai, India**  • **💻 Software Engineering** • **🚀 Fullstack**, **QA & Automation**
 </div>
 
 ---
