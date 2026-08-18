@@ -53,26 +53,62 @@ location: Mumbai, India
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+  <tr>
+    <th><b>Category</b></th>
+    <th><b>Technologies & Skills</b></th>
+  </tr>
 
-### 👨‍💻 Languages
+  <tr>
+    <td><b>🐍 Languages</b></td>
+    <td>
+      <b>Python</b> • <b>JavaScript</b> • <b>SQL</b>
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td>
+      <b>HTML</b> • <b>CSS</b> • <b>Bootstrap</b> • <b>JavaScript</b> • <b>Next.js</b>
+    </td>
+  </tr>
 
-### ⚙️ Backend & Frameworks
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>
+      <b>Python</b> • <b>Django</b> • <b>Django REST Framework</b>
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=django,postgres,mysql,mongodb" />
+  <tr>
+    <td><b>🗄️ Databases</b></td>
+    <td>
+      <b>MySQL</b> • <b>PostgreSQL</b> • <b>MongoDB</b>
+    </td>
+  </tr>
 
-### 🧪 Testing & Automation
+  <tr>
+    <td><b>🧪 Testing & Automation</b></td>
+    <td>
+      <b>Manual Testing</b> • <b>Test Case Design</b> • <b>Functional Testing</b> • <b>Regression Testing</b> • <b>API Testing</b> • <b>Playwright</b> • <b>Postman</b>
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=playwright,postman" />
+  <tr>
+    <td><b>🔧 Tools & Platforms</b></td>
+    <td>
+      <b>Git</b> • <b>GitHub</b> • <b>VS Code</b> • <b>Excel</b>
+    </td>
+  </tr>
 
-### 🔧 Tools
+  <tr>
+    <td><b>🤖 AI & Data</b></td>
+    <td>
+      <b>GenAI</b>  • <b>NumPy</b> • <b>Pandas</b> • <b>Matplotlib</b> • <b>OpenCV</b>
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
+</table>
 ## 🚀 Featured Projects
 
 ### 🍱 Maa-Shaeb Caterers
