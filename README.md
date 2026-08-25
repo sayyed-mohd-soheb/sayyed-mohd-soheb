@@ -109,17 +109,21 @@ location: Mumbai, India
   </tr>
 
 </table>
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🍱 Maa-Shaeb Caterers
-A full-stack catering platform built using Django.
+### Maa-Shaeb Caterers
 
-**Tech:** Python • Django • PostgreSQL • JavaScript • Cloudinary
+A full-stack catering and e-commerce platform built with Django for managing menus, customer orders, and order tracking.
+Designed with a PostgreSQL-backed architecture and integrated Cloudinary for efficient media management.
 
-### 🍎 Fruit Quality Defect Classification
-Computer vision project for detecting fruit quality defects.
+**Tech Stack:** `Python` • `Django` • `PostgreSQL` • `JavaScript` • `Cloudinary`
 
-**Tech:** Python • TensorFlow • YOLO • OpenCV
+### Fruit Quality Defect Classification
+
+A computer vision and deep learning project developed to detect and classify fruit quality defects from images.
+Implemented image-based classification using TensorFlow, YOLO, and OpenCV for automated quality analysis.
+
+**Tech Stack:** `Python` • `TensorFlow` • `YOLO` • `OpenCV`
 
 ---
 
@@ -136,9 +140,8 @@ Computer vision project for detecting fruit quality defects.
 
 ## 🎯 Career Goal
 
-My long-term goal is to become a strong Software Engineer specializing
-in Backend Development while building solid experience in testing,
-automation and modern web technologies.
+I’m focused on becoming a strong Software Engineer with expertise in Backend and Full Stack Development, while continuously learning AI and building practical skills in Test Automation using tools like Playwright.
+
 
 ---
 
