@@ -1,3 +1,5 @@
+![Animated Developer Banner](./github-banner.gif)
+
 <div align="center">
 
 # 👋 Hi, I'm **SAYYED SOHEB**
