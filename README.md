@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **SAYYED SOHEB**
+#  Hello, I'm **SAYYED SOHEB**
 
 **🐍 Python & Django Developer · 🧪 QA Tester · 🎭 Automation · 🤖 Learning AI/GenAI**
 
